@@ -22,12 +22,12 @@
    - Mention the problem statement and the analysis approach briefly
    - Explain the results in business terms
    - Include visualisations and summarise the most important results in the presentation
-   - A brief summary report in 500 words explaining how you proceeded with the assignment and the learnings that you gathered.
+
 4. A brief summary report in 500 words explaining how you proceeded with the assignment and the learnings that you gathered.
 
 ## Folder in which the assignment results can be found: 
 
 1. Jupyter notebook: [`src/`](src/)
-2. Word Document: [`docs/`](docs/)
+2. Subjective Questions and Answers Word Document: [`docs/`](docs/)
 3. Approach and Analysis PPT/PDF: [`docs/`](docs/)
 4. Summary report: [`docs/`](docs/) 
